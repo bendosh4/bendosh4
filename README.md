@@ -1,6 +1,6 @@
 # 💫 About Me:
 I'm a second-year student at **Ramot High School** in Bat Yam, Israel, and part of the **Magshimim** cyber program.  
-I have experience in **networking, C++, C, x86 Assembly, Python, and pentesting**.
+I have experience in **networking, C++, C, x16 Assembly, Python, and pentesting**.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ben11213)  
